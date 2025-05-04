@@ -1,0 +1,14 @@
+name: seurat_env
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - r-base
+  - r-seurat
+  - r-dplyr
+  - r-ggplot2
+  - r-patchwork
+  - r-matrix
+  - r-readr
+  - r-tibble
